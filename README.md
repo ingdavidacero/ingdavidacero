@@ -1,10 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+ingdavidacero's+Github)](https://git.io/typing-svg)
 
+Hi! This is my personal repository where I am going to compile projects outside of work and study.
 
 ## About me
 
-- Hi, I’m David Leonardo Acero Camargo from Colombia 
+- I’m David Leonardo Acero Camargo from Colombia 
 - I’m looking forward to collaborate on open source projects.
 - My hobby is reading books, watching movies, playing chess, playing soccer and learning.
 
