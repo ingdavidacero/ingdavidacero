@@ -1,4 +1,4 @@
-
+![nodejs-icon](https://github.com/ingdavidacero/ingdavidacero/assets/145169343/30e84cee-8a86-4ed1-b307-41f8c1668209)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+ingdavidacero's+Github)](https://git.io/typing-svg)
 
 Hi! This is my personal repository where I am going to compile projects outside of work and study.
@@ -37,5 +37,8 @@ Hi! This is my personal repository where I am going to compile projects outside 
   </a> 
   <a target="_blank"> 
     <img src="https://github.com/ingdavidacero/ingdavidacero/assets/145169343/def246cc-0539-43c6-a0ab-58e46b86b3df" alt="github" width="40" height="40"/> 
+  </a> 
+  <a target="_blank"> 
+    <img src="https://github.com/ingdavidacero/ingdavidacero/assets/145169343/7cd63f25-d306-404b-9ceb-6fe385413be4" alt="github" width="40" height="40"/> 
   </a> 
 </p>
